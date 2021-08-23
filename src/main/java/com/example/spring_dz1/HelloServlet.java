@@ -1,4 +1,4 @@
-package com.example.spring_dz1;
+/*package com.example.spring_dz1;
 
 import java.io.*;
 import javax.servlet.http.*;
@@ -24,4 +24,4 @@ public class HelloServlet extends HttpServlet {
 
     public void destroy() {
     }
-}
+}*/
